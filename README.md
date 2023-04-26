@@ -56,7 +56,7 @@ Github repo hello-microverse
 
 👥 Authors
 
-👤 Jose Antonio Alcantar
+👤 Jose Antonio Alcantara
 
 GitHub: @joseantonioalc1
 Twitter: @7alcantara7
