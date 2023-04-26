@@ -22,90 +22,78 @@ Deployment
 🙏 Acknowledgements
 ❓ FAQ (OPTIONAL)
 📝 License version 1.0
-📖 [your_project_name] Hello Microverse
+📖 Hello Microverse
 
-Describe your project in 1 or 2 sentences.
-[your_project__name] is a...
+
+Hello Microverse is a Code project
 Home page showing a html welcome page with CSS styles
 🛠 Built With HTML & CSS
 
-Tech Stack Cliente
+Tech Stack:
 
-Describe the tech stack and include only the relevant sections that apply to your project.
 Client *
 Server
 Database
 Key Features
 
 Describe between 1-3 key features of the application.
-[key_feature_1]
-[key_feature_2]
-[key_feature_3]
+Shows greeting 
+On a previous selected color
+Shows in a homepage
 (back to top)
 
 🚀 Live Demo
 
-Add a link to your deployed project.
-Live Demo Link
+www.myproject.com/hellomicroverse
 (back to top)
 
 💻 Getting Started
 
-Describe how a new developer could make use of your project.
-To get a local copy up and running, follow these steps.
+Visit www.myproject.com/hellomicroverse
+To get a local copy to be up and running, follow steps on site.
 
 Prerequisites
 
 In order to run this project you need:
 
-Setup
-
-Clone this repository to your desired folder:
+Clone this repository to your desired folder to
 
 Install
 
-Install this project with:
+Install this project with: 
 
-Usage
+Clone, it is public, so you can clone it.
 
 To run the project, execute the following command:
 
-Run tests
+Run index.html
 
-To run tests, run the following command:
+To run index.html, run the following command: doble click on it. 
 
 Deployment
 
 You can deploy this project using:
-
+Github repo hello-microverse
 (back to top)
 
 👥 Authors
 
-Mention all of the collaborators of this project.
-👤 Author1 Jose Antonio Alc1
+👤 Jose Antonio Alcantar
 
-GitHub: @githubhandle
-Twitter: @twitterhandle
-LinkedIn: LinkedIn
-👤 Author2
-
-GitHub: @githubhandle
-Twitter: @twitterhandle
-LinkedIn: LinkedIn
-(back to top)
+GitHub: @joseantonioalc1
+Twitter: @7alcantara7
+LinkedIn: @joseantonioalc1
 
 🔭 Future Features
 
-Describe 1 - 3 features you will add to the project.
- [new_feature_1]
- [new_feature_2]
- [new_feature_3]
+New pages with more content
+Change Heading message
+Change Style and color
 (back to top)
 
 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
+Thanks to Ayesha Arshad, and everyone at GitHub and Microverse
 
 Feel free to check the issues page.
 
@@ -113,34 +101,21 @@ Feel free to check the issues page.
 
 ⭐️ Show your support
 
-Write a message to encourage readers to support your project
-If you like this project...
+If you like this project please feel free to make donations
+www.myproject.com/hellomicroverse/donations
 
 (back to top)
 
 🙏 Acknowledgments 
 Thanks to everyone at microverse to make this possible.
+I would like to thanks everyone at github to make this project possible
 
-Give credit to everyone who inspired your codebase.
-I would like to thank...
 
-(back to top)
-
-❓ FAQ (OPTIONAL)
-
-Add at least 2 questions new developers would ask when they decide to use your project.
-[Question_1]
-
-[Answer_1]
-[Question_2]
-
-[Answer_2]
 (back to top)
 
 📝 License
 
 This project is MIT licensed.
 
-NOTE: we recommend using the MIT license - you can set it up quickly by using templates available on GitHub. You can also use any other license if you wish.
 
 (back to top)
